@@ -15,9 +15,7 @@ A web-based application that displays real-time weather information for your cur
 ![App Screenshot 2](https://github.com/YashWaghurdekar/Weather-app/blob/bbb23a82fb21e7eea983f71e8a3a4f2c4abea7ab/Demo/Capture2.jpg)
 ![App Screenshot 2](https://github.com/YashWaghurdekar/Weather-app/blob/5005a713a9a31c820e2dfe11352bb482cbebea8a/Demo/Capture3.jpg)
 
-## Demo
 
-A live demo can be found [here](https://your-live-demo-link.com).
 
 
 
