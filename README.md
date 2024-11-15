@@ -11,8 +11,9 @@ A web-based application that displays real-time weather information for your cur
 
 ## Screenshots
 
-![App Screenshot 1](./Images/screenshot1.png)
-![App Screenshot 2](./Images/screenshot2.png)
+![App Screenshot 1](./Demo/Capture.png)
+![App Screenshot 2](./Demo/Capture2.png)
+![App Screenshot 2](./Demo/Capture3.png)
 
 ## Demo
 
