@@ -11,7 +11,7 @@ A web-based application that displays real-time weather information for your cur
 
 ## Screenshots
 
-![App Screenshot 1](./Demo/Capture.png)
+![App Screenshot 1](https://github.com/YashWaghurdekar/Weather-app/blob/e1a9487d8e1dda81739a604cec8d906c139cfc4f/Demo/Capture.jpg)
 ![App Screenshot 2](./Demo/Capture2.png)
 ![App Screenshot 2](./Demo/Capture3.png)
 
